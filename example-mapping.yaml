@@ -79,3 +79,4 @@ layers:
       - ccw: "d"
         press: "e"
         cw: "f"
+./ch57x-keyboard-tool show-keys
